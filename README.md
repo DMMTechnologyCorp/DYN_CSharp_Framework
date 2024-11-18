@@ -2,7 +2,7 @@
 
 This repository contains demo code for controlling DMM Technology Corporation's DYN servo drive using a C# application through an RS232 connection. The code provides a basic skeleton for controlling speed and position, reading parameters, and monitoring drive status, including error and fault codes.
 
-YouTube Video for Demonstration and Explanation of Code:  
+## YouTube Video for Demonstration and Explanation of Code:  
 [DMM C# Demo Video](https://www.youtube.com/watch?v=fxN_7-Jv3pc)
 
 ## Features
